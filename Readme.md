@@ -6,7 +6,6 @@ I am using a german namedataset to train a probabilistic language model with 10-
 
 In inference you can generate new names based on the probabilities outputted by the neural net. 
 
-
 Sample names are:
 - marlo
 - emmergo
@@ -18,3 +17,5 @@ Sample names are:
 - bilthaherd
 - herolin
 - gerwi
+
+_The training, evaluation and test have all been written as a learning exercise and are not the most efficient way of building a neural net._
